@@ -1,0 +1,22 @@
+const String baseURL = "https://519.magdsofteg.xyz/api/";
+const String epGetFirstUser = "getFirstUser";
+const String epAboutUs = "aboutUs";
+const String epCreateFirebaseToken = "createFirebaseToken";
+const String epUnSeenNotifications = "unSeenNotifications";
+const String epNotifications = "notifications";
+const String epAds = "ads";
+const String epGetCategories = "getCategories";
+const String epGetSubCategories = "getSubCategories";
+const String epGetStores = "getStores";
+const String epStoreDetails = "storeDetails";
+const String epContact = "contact";
+const String epSearch = "search";
+const String epGetDistricts = "getDistricts";
+const String epFilter = "filter";
+const String setRate = "setRate";
+const String updateRate = "updateRate";
+const String addFavourite = "addFavourite";
+const String deleteFavourite = "deleteFavourite";
+const String getFavourites = "getFavourites";
+
+const String appLanguageSharedKey = 'appLanguageSharedKey';
